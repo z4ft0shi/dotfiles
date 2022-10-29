@@ -3,7 +3,6 @@
 ![Xmonad](../../.screenshots/xmonad.png)
 
 ***Language***
-- [🇪🇸 Español](./README.es.md)
 - 🇺🇸 English
 
 ## Installation

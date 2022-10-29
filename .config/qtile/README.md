@@ -3,7 +3,7 @@
 ![Qtile](../../.screenshots/qtile.png)
 
 ***Language***
-- [🇪🇸 Español](./README.es.md)
+
 - 🇺🇸 English
 
 ## Installation (Arch based)

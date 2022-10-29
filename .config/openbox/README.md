@@ -3,7 +3,6 @@
 ![Openbox](../../.screenshots/openbox.png)
 
 ***Language***
-- [🇪🇸 Español](./README.es.md)
 - 🇺🇸 English
 
 Install *openbox* and dependencies:

@@ -3,7 +3,6 @@
 ![Rofi](./rofi.png)
 
 ***Language***
-- [🇪🇸 Español](./README.es.md)
 - 🇺🇸 English
 
 Install *rofi* and dependencies:

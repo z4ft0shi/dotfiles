@@ -3,7 +3,6 @@
 ![Qtile](.screenshots/qtile.png)
 
 ***Language***
-- [🇪🇸 Español](./README.es.md)
 - 🇺🇸 English
 
 ***Quick Links***
@@ -58,17 +57,6 @@
   - [Basic utilities](#basic-utilities)
   - [Fonts, theming and GTK](#fonts-theming-and-gtk)
   - [Apps](#apps-1)
-
-# Overview
-
-This guide will walk you through the process of building a desktop environment
-starting with a fresh Arch based installation. I will assume that you are
-comfortable with Linux based operating systems and command line interfaces.
-Because you are reading this, I will also assume that you've looked through some
-"tiling window manager" videos on Youtube, because that's where the rabbit hole
-starts. You can pick any window managers you want, but I'm going to use Qtile
-as a first tiling window manager because that's what I started with. This is
-basically a description of how I made my desktop environment from scratch.
 
 # Arch installation
 
@@ -196,18 +184,6 @@ change your layout to spanish:
 setxkbmap es
 ```
 
-Note that this change is not permanent, if you reboot you have to type that
-command again. See [this section](#xprofile) for making it permanent, or
-follow the natural order of this guide if you have enough time.
-
-There is no menu by default, you have to launch programs through xterm. At this
-point, you can pick your terminal emulator of choice and install a program
-launcher.
-
-```bash
-# Install another terminal emulator if you want
-sudo pacman -S alacritty
-```
 
 Now open the config file:
 

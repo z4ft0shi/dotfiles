@@ -1,7 +1,6 @@
 ![Neovim](./neovim.png)
 
 ***Language***
-- [🇪🇸 Español](./README.es.md)
 - 🇺🇸 English
 
 
