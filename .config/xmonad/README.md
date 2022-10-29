@@ -2,8 +2,6 @@
 
 ![Xmonad](../../.screenshots/xmonad.png)
 
-***Language***
-- 🇺🇸 English
 
 ## Installation
 

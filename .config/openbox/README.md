@@ -2,8 +2,6 @@
 
 ![Openbox](../../.screenshots/openbox.png)
 
-***Language***
-- 🇺🇸 English
 
 Install *openbox* and dependencies:
 

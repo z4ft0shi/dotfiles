@@ -2,9 +2,6 @@
 
 ![Qtile](../../.screenshots/qtile.png)
 
-***Language***
-
-- 🇺🇸 English
 
 ## Installation (Arch based)
 

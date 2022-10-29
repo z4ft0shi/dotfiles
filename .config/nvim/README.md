@@ -1,8 +1,5 @@
 ![Neovim](./neovim.png)
 
-***Language***
-- 🇺🇸 English
-
 
 To use this config, first download some dependencies:
 

@@ -2,8 +2,6 @@
 
 ![Rofi](./rofi.png)
 
-***Language***
-- 🇺🇸 English
 
 Install *rofi* and dependencies:
 

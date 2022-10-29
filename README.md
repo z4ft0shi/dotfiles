@@ -2,9 +2,6 @@
 
 ![Qtile](.screenshots/qtile.png)
 
-***Language***
-- 🇺🇸 English
-
 ***Quick Links***
 - *Window manager configs*
   - [Qtile](https://github.com/antoniosarosi/dotfiles/tree/master/.config/qtile)
