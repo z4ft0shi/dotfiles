@@ -2,7 +2,6 @@
 
 ![Qtile](../../.screenshots/qtile.png)
 
-
 ## Installation (Arch based)
 
 Install Qtile and dependencies:

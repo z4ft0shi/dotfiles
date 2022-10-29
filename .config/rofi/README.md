@@ -2,7 +2,6 @@
 
 ![Rofi](./rofi.png)
 
-
 Install *rofi* and dependencies:
 
 ```bash
@@ -27,3 +26,5 @@ cp -r dotfiles/.config/rofi ~/.config
 
 If you are using my window manager configs, **mod + m** will launch
 *rofi -show drun* (menu) and **mod + shift + m** will launch *rofi -show* (window navigation).
+
+Done.

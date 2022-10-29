@@ -4,10 +4,10 @@
 
 ***Quick Links***
 - *Window manager configs*
-  - [Qtile](https://github.com/antoniosarosi/dotfiles/tree/master/.config/qtile)
-  - [Spectrwm](https://github.com/antoniosarosi/dotfiles/tree/master/.config/spectrwm)
-  - [Openbox](https://github.com/antoniosarosi/dotfiles/tree/master/.config/openbox)
-  - [Xmonad](https://github.com/antoniosarosi/dotfiles/tree/master/.config/xmonad)
+  - [Qtile](https://github.com/z4ft0shi/dotfiles/tree/master/.config/qtile)
+  - [Spectrwm](https://github.com/z4ft0shi/dotfiles/tree/master/.config/spectrwm)
+  - [Openbox](https://github.com/z4ft0shi/dotfiles/tree/master/.config/openbox)
+  - [Xmonad](https://github.com/z4ft0shi/dotfiles/tree/master/.config/xmonad)
   - [Dwm](https://github.com/antoniosarosi/dwm)
 - [Gallery (see how my configs look)](#gallery)
 - [Common keybindings for my configs](#keybindings)

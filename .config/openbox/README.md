@@ -2,7 +2,6 @@
 
 ![Openbox](../../.screenshots/openbox.png)
 
-
 Install *openbox* and dependencies:
 
 ```

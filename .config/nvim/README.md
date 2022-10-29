@@ -1,6 +1,5 @@
 ![Neovim](./neovim.png)
 
-
 To use this config, first download some dependencies:
 
 ```bash

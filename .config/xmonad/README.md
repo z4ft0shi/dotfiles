@@ -2,7 +2,6 @@
 
 ![Xmonad](../../.screenshots/xmonad.png)
 
-
 ## Installation
 
 This is how to setup *Xmonad* using this config:
@@ -19,7 +18,7 @@ cp -r dotfiles/.config/xmobar ~/.config
 ```
 
 *Xmobar* will not work if you don't have my
-**[~/.local/bin](https://github.com/antoniosarosi/dotfiles/tree/master/.local/bin)**
+**[~/.local/bin](https://github.com/z4ft0shi/dotfiles/tree/master/.local/bin)**
 scripts.
 
 ```bash
@@ -99,7 +98,7 @@ upower -d
 Once that's done, you can login. But keep in mind keybindings will not work
 unless you have the same programs that I use and the same configs. You can
 either change keybindings or install the software I use and my config files,
-check out [this section](https://github.com/antoniosarosi/dotfiles#keybindings)
+check out [this section](https://github.com/z4ft0shi/dotfiles#keybindings)
 for instructions.
 
 ## Autostart
