@@ -2,10 +2,6 @@
 
 ![Spectrwm](../../.screenshots/spectrwm.png)
 
-***Idioma***
-- [🇪🇸 Español](./README.es.md)
-- 🇺🇸 English
-
 ## Installation
 
 Install Spectrwm and dependencies:
