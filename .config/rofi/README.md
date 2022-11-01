@@ -20,7 +20,7 @@ font: "Knack Nerd Font 14";
 Copy my configs:
 
 ```bash
-git clone https://github.com/antoniosarosi/dotfiles.git
+git clone https://github.com/z4ft0shi/dotfiles.git
 cp -r dotfiles/.config/rofi ~/.config
 ```
 

@@ -25,7 +25,7 @@ Then execute ```:PlugInstall``` inside neovim and it should be ready.
 ## Vscode
 
 Copy ```settings.json``` and ```keybindings.json``` from my
-[gist](https://gist.github.com/antoniosarosi/eb8d73a580eaa3e7dc32b0b803b4654d).
+[gist](https://gist.github.com/z4ft0shi/eb8d73a580eaa3e7dc32b0b803b4654d).
 and then install the 
 [Which Key](https://marketplace.visualstudio.com/items?itemName=VSpaceCode.whichkey)
 and

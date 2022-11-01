@@ -8,7 +8,7 @@
   - [Spectrwm](https://github.com/z4ft0shi/dotfiles/tree/master/.config/spectrwm)
   - [Openbox](https://github.com/z4ft0shi/dotfiles/tree/master/.config/openbox)
   - [Xmonad](https://github.com/z4ft0shi/dotfiles/tree/master/.config/xmonad)
-  - [Dwm](https://github.com/antoniosarosi/dwm)
+  - [Dwm](https://github.com/z4ft0shi/dwm)
 - [Gallery (see how my configs look)](#gallery)
 - [Common keybindings for my configs](#keybindings)
 - [Software I use](#software)
@@ -227,7 +227,7 @@ rofi-theme-selector
 
 That's it for Qtile, now you can start hacking on it and make it your own.
 Checkout my custom Qtile config
-[here](https://github.com/antoniosarosi/dotfiles/tree/master/.config/qtile).
+[here](https://github.com/z4ft0shi/dotfiles/tree/master/.config/qtile).
 But before that I would recommend configuring basic utilities like audio,
 battery, mounting drives, etc.
 
@@ -723,27 +723,27 @@ in through *lightdm*.
 Here you have a list of all my window manager configs,
 which are located in this repository and have their own documentation:
 
-- [Qtile](https://github.com/antoniosarosi/dotfiles/tree/master/.config/qtile)
-- [Spectrwm](https://github.com/antoniosarosi/dotfiles/tree/master/.config/spectrwm)
-- [Openbox](https://github.com/antoniosarosi/dotfiles/tree/master/.config/openbox)
-- [Xmonad](https://github.com/antoniosarosi/dotfiles/tree/master/.config/xmonad)
-- [Dwm](https://github.com/antoniosarosi/dwm)
+- [Qtile](https://github.com/z4ft0shi/dotfiles/tree/master/.config/qtile)
+- [Spectrwm](https://github.com/z4ft0shi/dotfiles/tree/master/.config/spectrwm)
+- [Openbox](https://github.com/z4ft0shi/dotfiles/tree/master/.config/openbox)
+- [Xmonad](https://github.com/z4ft0shi/dotfiles/tree/master/.config/xmonad)
+- [Dwm](https://github.com/z4ft0shi/dwm)
 
 # Gallery
 
-## [Qtile](https://github.com/antoniosarosi/dotfiles/tree/master/.config/qtile)
+## [Qtile](https://github.com/z4ft0shi/dotfiles/tree/master/.config/qtile)
 ![Qtile](.screenshots/qtile.png)
 
-## [Spectrwm](https://github.com/antoniosarosi/dotfiles/tree/master/.config/spectrwm)
+## [Spectrwm](https://github.com/z4ft0shi/dotfiles/tree/master/.config/spectrwm)
 ![Spectrwm](.screenshots/spectrwm.png)
 
-## [Openbox](https://github.com/antoniosarosi/dotfiles/tree/master/.config/openbox)
+## [Openbox](https://github.com/z4ft0shi/dotfiles/tree/master/.config/openbox)
 ![Openbox](.screenshots/openbox.png)
 
-## [Xmonad](https://github.com/antoniosarosi/dotfiles/tree/master/.config/xmonad)
+## [Xmonad](https://github.com/z4ft0shi/dotfiles/tree/master/.config/xmonad)
 ![Xmonad](.screenshots/xmonad.png)
 
-## [Dwm](https://github.com/antoniosarosi/dwm)
+## [Dwm](https://github.com/z4ft0shi/dwm)
 ![Dwm](.screenshots/dwm.png)
 
 # Keybindings
@@ -777,8 +777,8 @@ sudo pacman -S rofi thunar firefox alacritty redshift scrot
 ```
 
 To set up *rofi*,
-[check this README](https://github.com/antoniosarosi/dotfiles/tree/master/.config/rofi),
-and for *alacritty*, [this one](https://github.com/antoniosarosi/dotfiles/tree/master/.config/alacritty).
+[check this README](https://github.com/z4ft0shi/dotfiles/tree/master/.config/rofi),
+and for *alacritty*, [this one](https://github.com/z4ft0shi/dotfiles/tree/master/.config/alacritty).
 
 
 ## Apps

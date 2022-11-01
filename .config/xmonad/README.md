@@ -12,7 +12,7 @@ sudo pacman -S xmonad xmonad-contrib xmobar trayer xdotool
 yay -S nerd-fonts-ubuntu-mono
 
 # Clone this respository and copy my configs
-git clone https://github.com/antoniosarosi/dotfiles.git
+git clone https://github.com/z4ft0shi/dotfiles.git
 cp -r dotfiles/.config/xmonad ~/.config
 cp -r dotfiles/.config/xmobar ~/.config
 ```
