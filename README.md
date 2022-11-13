@@ -11,8 +11,6 @@
   - [Dwm](https://github.com/z4ft0shi/dwm)
 - [Gallery (see how my configs look)](#gallery)
 - [Common keybindings for my configs](#keybindings)
-- [Software I use](#software)
-
 # Table of Contents
 
 - [Overview](#overview)
@@ -787,56 +785,9 @@ and for *alacritty*, [this one](https://github.com/z4ft0shi/dotfiles/tree/master
 | ------------------- | ----------------------------- |
 | **mod + m**         | launch rofi                   |
 | **mod + shift + m** | window nav (rofi)             |
-| **mod + b**         | launch browser (firefox)      |
+| **mod + b**         | launch browser (brave)      |
 | **mod + e**         | launch file explorer (thunar) |
 | **mod + return**    | launch terminal (alacritty)   |
 | **mod + r**         | redshift                      |
 | **mod + shift + r** | stop redshift                 |
 | **mod + s**         | screenshot (scrot)            |
-
-# Software
-
-## Basic utilities
-
-| Software                                                                                            | Utility                          |
-| --------------------------------------------------------------------------------------------------- | -------------------------------- |
-| **[networkmanager](https://wiki.archlinux.org/index.php/NetworkManager)**                           | Self explanatory                 |
-| **[network-manager-applet](https://wiki.archlinux.org/index.php/NetworkManager#nm-applet)**         | *NetworkManager* systray         |
-| **[pulseaudio](https://wiki.archlinux.org/index.php/PulseAudio)**                                   | Self explanatory                 |
-| **[pavucontrol](https://www.archlinux.org/packages/extra/x86_64/pavucontrol/)**                     | *pulseaudio* GUI                 |
-| **[pamixer](https://www.archlinux.org/packages/community/x86_64/pamixer/)**                         | *pulseaudio* CLI                 |
-| **[brightnessctl](https://www.archlinux.org/packages/community/x86_64/brightnessctl/)**             | Laptop screen brightness         |
-| **[xinit](https://wiki.archlinux.org/index.php/Xinit)**                                             | Launch programs before wm starts |
-| **[libnotify](https://wiki.archlinux.org/index.php/Desktop_notifications)**                         | Desktop notifications            |
-| **[notification-daemon](https://www.archlinux.org/packages/community/x86_64/notification-daemon/)** | Self explanatory                 |
-| **[udiskie](https://www.archlinux.org/packages/community/any/udiskie/)**                            | Automounter                      |
-| **[ntfs-3g](https://wiki.archlinux.org/index.php/NTFS-3G)**                                         | NTFS read & write                |
-| **[arandr](https://www.archlinux.org/packages/community/any/arandr/)**                              | GUI for *xrandr*                 |
-| **[cbatticon](https://www.archlinux.org/packages/community/x86_64/cbatticon/)**                     | Battery systray                  |
-| **[volumeicon](https://www.archlinux.org/packages/community/x86_64/volumeicon/)**                   | Volume systray                   |
-| **[glib2](https://www.archlinux.org/packages/core/x86_64/glib2/)**                                  | Trash                            |
-| **[gvfs](https://www.archlinux.org/packages/extra/x86_64/gvfs/)**                                   | Trash for GUIs                   |
-
-## Fonts, theming and GTK
-
-| Software                                                                               | Utility                    |
-| -------------------------------------------------------------------------------------- | -------------------------- |
-| **[Picom](https://wiki.archlinux.org/index.php/Picom)**                                | Compositor for Xorg        |
-| **[UbuntuMono Nerd Font](https://aur.archlinux.org/packages/nerd-fonts-ubuntu-mono/)** | Nerd Font for icons        |
-| **[Material Black](https://www.gnome-look.org/p/1316887/)**                            | GTK theme and icons        |
-| **[lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/)**  | GUI for changing themes    |
-| **[nitrogen](https://wiki.archlinux.org/index.php/Nitrogen)**                          | GUI for setting wallpapers |
-| **[feh](https://wiki.archlinux.org/index.php/Feh)**                                    | CLI for setting wallpapers |
-
-## Apps
-
-| Software                                                              | Utility                  |
-| --------------------------------------------------------------------- | ------------------------ |
-| **[alacritty](https://wiki.archlinux.org/index.php/Alacritty)**       | Terminal emulator        |
-| **[thunar](https://wiki.archlinux.org/index.php/Thunar)**             | Graphical file explorer  |
-| **[ranger](https://wiki.archlinux.org/index.php/Ranger)**             | Terminal based explorer  |
-| **[neovim](https://wiki.archlinux.org/index.php/Neovim)**             | Terminal based editor    |
-| **[rofi](https://wiki.archlinux.org/index.php/Rofi)**                 | Menu and window switcher |
-| **[scrot](https://wiki.archlinux.org/index.php/Screen_capture)**      | Screenshot               |
-| **[redshift](https://wiki.archlinux.org/index.php/Redshift)**         | Take care of your eyes   |
-| **[trayer](https://www.archlinux.org/packages/extra/x86_64/trayer/)** | Systray                  |
